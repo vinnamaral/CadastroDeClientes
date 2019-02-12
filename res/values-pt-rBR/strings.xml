@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cadastro de Clientes</string>
+    <string name="action_settings">Ferramentas</string>
+    
+    <string name="Lbname">Nome:</string>
+    <string name="Lbmail">Email:</string>
+    <string name="Lbcity">Cidade:</string>
+    <string name="Lbcadastrar">Cadastrar</string>
+    <string name="Lbdeletar">Deseja realmente remover esse registro?</string>
+    <string name="Lbcadastrado_ok">Cadastrado com sucesso</string>
+    <string name="Lbcadastrado_nok">Erro ao cadastrar</string>
+    <string name="Lbatualizado_ok">Atualizado com sucesso</string>
+    <string name="Lbatualizado_nok">Erro ao atualizar</string>
+    <string name="Lbremovido_ok">Removido com sucesso</string>
+    <string name="Lbremovido_nok">Erro ao remover</string>
+    <string name="Lbsim">Sim</string>
+    <string name="Lbnao">Não</string>
+    <string name="Lbfillnome">Preencha o campo nome</string>
+    <string name="Lbfillemail">Preencha o campo email</string>
+    <string name="Lbfillcidade">Preencha o campo cidade</string>
+    
+    <string name="Btatualizar">Atualizar</string>
+    <string name="Btdeletar">Remover</string>
+    <string name="Btlistar">Clientes</string>
+    <string name="Btcadastrar">Novo cliente</string>
+
+</resources>
